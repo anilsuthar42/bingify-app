@@ -3,8 +3,8 @@
 Developed a movie streaming plateform utilizing React.js, Next.js, and Tailwind CSS for the front-end with TypeScript for type safety. 
 Implemented user authentication with NextAuth.js and utilized Prisma for seamless database interactions with MongoDB.
 
-![image](ss1.png)
-![image](ss2.png)
+![image](public/ss1.png)
+![image](public/ss2.png)
 
 Features:
 
