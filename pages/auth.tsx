@@ -68,11 +68,11 @@ const Auth = () => {
   }, [email, name, password, login]);
 
   return (
-    <div className="relative h-full w-full bg-[url('/images/movie_bg.jpg')] bg-no-repeat bg-center bg-dynamic bg-cover">
-      <div className="bg-black w-full h-full bg-opacity-30">
+    <div className="relative h-full w-full bg-[url('/images/remote.jpg')] bg-no-repeat bg-center bg-dynamic bg-cover">
+      <div className="bg-black w-full h-full bg-opacity-50">
         <div className="h-full overflow-y-scroll">
           <nav className="px-12 py-4">
-            <h1 className="font-bold text-5xl text-navy">BINGIFY</h1>
+          <h1 className="font-bold text-5xl text-blue-700 tracking-wide font-sans">BINGIFY</h1>
           </nav>
           <div className="flex justify-center">
             <div className="bg-black bg-opacity-70 px-12 py-8 self-center mt-2 lg:w-2/5 max-w-md rounded-md w-full">
